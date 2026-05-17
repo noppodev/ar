@@ -1,1 +1,1 @@
-#NoppoAR用の.pattファイル保存
+NoppoAR用の.pattファイル保存
